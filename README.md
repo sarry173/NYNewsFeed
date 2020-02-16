@@ -24,11 +24,12 @@ a) Android Architectural Components <br/>
 b) Dagger 2 for Dependency Injection <br/>
 c) MVVM <br/>
 d) Retrofit with Okhttp <br/>
-f) JUnit and Mockito for Unit testing <br/>
-d) Repository pattern <br/>
-e) Gson library for data serialization/deserialization<br/>
-f) JUnit and Mockito for Unit testing <br/>
-f) Espresso for UI automation testing <br/>
+e) JUnit and Mockito for Unit testing <br/>
+f) Repository pattern <br/>
+g) Gson library for data serialization/deserialization<br/>
+h) Glide library image processing<br/>
+i) JUnit and Mockito for Unit testing <br/>
+j) Espresso for UI automation testing <br/>
 
 # How to build ?
 
