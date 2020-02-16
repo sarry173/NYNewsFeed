@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="close">Close</string>
+    <string name="about_us">\u00a9The New York Times</string>
+    <string name="splash_title">Welcome to The New York Times</string>
+    <string name="news_title">News</string>
+    <string name="aboutus_title">About us</string>
+    <string name="news_details_title">News Details</string>
+    <string name="api_error">Error, Please try again.</string>
+</resources>
